@@ -8,7 +8,7 @@ export default function WelcomePage() {
     <>
       <header id="welcome-header">
         <div id="welcome-header-content">
-          <h1>Ready for a challenge??</h1>
+          <h1>Ready for a challenge?</h1>
           <Link id="cta-link" to="/challenges">
             Get Started
           </Link>
